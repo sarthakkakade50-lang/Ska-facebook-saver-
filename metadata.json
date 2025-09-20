@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Video Saver",
+  "description": "A sleek and modern web application to 'save' your favorite Facebook videos. Paste a video URL to generate a preview and download links.",
+  "requestFramePermissions": []
+}
